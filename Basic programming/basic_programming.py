@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Python basic programming 
-site : http://pythonstudy.xyz/
+site : http://pythonstudy.xyz/ 
 
 """
 
