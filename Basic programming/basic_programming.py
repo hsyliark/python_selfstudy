@@ -358,4 +358,104 @@ print(d)
 
 ## function
 
+def sum(a,b):
+    s = a + b
+    return s
 
+total = sum(4,7)
+print(total)
+
+# 함수내에서 i, mylist 값 변경
+def f(i,mylist):
+    i = i + 1
+    mylist.append(0)
+    
+k = 10 # int (immutable)
+m = [1,2,3] # list (mutable)
+
+f(k,m)
+print(k,m)    
+
+# default parameter
+def calc(i,j,factor=1):
+    return i*j*factor
+
+result = calc(10,20)
+print(result)
+
+# named parameter
+def report(name,age,score):
+    print(name,score)
+    
+report(age=10,name="Kim",score=80) 
+
+# 가변길이 파라미터
+def total(*numbers):
+    tot = 0
+    for n in numbers:
+        tot += n
+    return tot
+
+t = total(1,2)
+print(t)
+t = total(1,5,2,6)
+print(t)
+
+# return value
+def calc(*numbers):
+    count = 0
+    tot = 0
+    for n in numbers:
+        count += 1
+        tot += n
+    return count, tot
+
+count, sum = calc(1,5,2,6) # (count, tot) tuple을 리턴
+print(count,sum)
+
+
+## module
+
+import math
+n = math.factorial(5)
+print(n)
+
+# factorial 함수만 import
+from math import factorial
+n = factorial(5) / factorial(3)
+print(n)
+
+# 여러 함수를 import
+from math import (factorial,acos)
+a = factorial(3)
+b = acos(1)
+print(a,b)    
+
+# 모든 함수를 import
+from math import *
+a = sqrt(5)
+b = fabs(-12.5)
+print(a,b)
+
+# factorial() 함수를 f()로 사용 가능
+from math import factorial as f
+n = f(6) / f(4)
+print(n)
+
+import sys
+sys.path # 현재 검색경로
+sys.path[0] # 첫번째는 빈 문자열로 현재 디렉토리를 가리킴
+sys.path.append() # 새 폴더를 검색경로에 추가함
+
+# 함수 add, substract를 모듈 mylib.py에 저장
+# mylib.py
+def add(a,b):
+    return a+b
+
+def substract(a,b):
+    return a-b
+
+from mylib import *
+i = add(10,20)
+j = substract(20,5)
+print(i,j)
