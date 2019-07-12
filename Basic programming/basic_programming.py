@@ -193,6 +193,70 @@ for x in numbers:
     print(x)
 
 for i in range(10):
-    print("Hello")    
+    print("Hello")  
+ 
+# list : 요소 변경 가능    
+a = [] # 빈 리스트
+a = ["AB",10,False]    
+x = a[1]
+a[1] = "Test"
+y = a[-1]
+   
+a = [1,3,5,7,9]
+x = a[1:3]
+x
+x = a[:2]
+x
+x = a[3:]
+x 
 
-    
+a = ["AB",10,False]
+a.append(21.5) # 추가
+a[1] = 11 # 변경
+del a[2] # 삭제
+print(a)     
+
+a = [1,2]
+b = [3,4,5]
+c = a+b
+print(c)
+d = a*3
+print(d)
+
+mylist = "This is a book That is a pencil".split()
+i = mylist.index('book')
+i
+n = mylist.count('is')    
+n
+
+list = [n**2 for n in range(10) if n%3==0]
+print(list)
+
+# tuple : 요소 변경 불가
+t = ("AB",10,False)
+print(t)
+
+t1 = (123) # int
+print(t1)
+t2 = (123,) # tuple
+print(t2)
+
+t = (1,5,10)
+second = t[1]
+last = t[-1]
+s = t[1:2]
+s = t[1:]
+
+a = (1,2)
+b = (3,4,5)
+c = a+b
+print(c)
+d = a*3
+print(d)
+
+name = ("John","Kim")
+print(name)
+firstname, lastname = ("John","Kim")
+print(lastname, ",", firstname)
+ 
+
