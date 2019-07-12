@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Python basic programming
+Python basic programming 
 site : http://pythonstudy.xyz/
 
 """
