@@ -195,7 +195,8 @@ for x in numbers:
 for i in range(10):
     print("Hello")  
  
-# list : 요소 변경 가능    
+    
+## list : 요소 변경 가능    
 a = [] # 빈 리스트
 a = ["AB",10,False]    
 x = a[1]
@@ -232,7 +233,8 @@ n
 list = [n**2 for n in range(10) if n%3==0]
 print(list)
 
-# tuple : 요소 변경 불가
+
+## tuple : 요소 변경 불가
 t = ("AB",10,False)
 print(t)
 
@@ -258,5 +260,102 @@ name = ("John","Kim")
 print(name)
 firstname, lastname = ("John","Kim")
 print(lastname, ",", firstname)
- 
+
+
+## dictionary
+scores = {"철수": 90, "민수": 85, "영희": 80}
+v = scores["민수"]
+scores["민수"] = 88
+scores["길동"] = 95
+del scores["영희"]
+print(scores)
+
+    
+
+# 1. Tuple List로부터 dict 생성
+persons = [('김기수',30),('홍대길',35),('강찬수',25)]
+mydict = dict(persons)
+
+age = mydict["홍대길"]
+print(age)
+
+# 2. Key=Value 파라미터로부터 dict 생성
+scores = dict(a=80,b=90,c=85)
+print(scores['b'])
+
+scores = {"철수": 90, "민수": 85, "영희": 80}
+
+for key in scores:
+    val = scores[key]
+    print("%s : %d" % (key,val))
+    
+# keys
+keys = scores.keys()
+for k in keys:
+    print(k)
+
+# values
+values = scores.values()
+for v in values:
+    print(v)    
+    
+items = scores.items()
+print(items)
+
+itemsList = list(items) # dict_item을 list로 변환
+print(itemsList)
+
+scores = {"철수": 90, "민수": 85, "영희": 80}
+v = scores.get("민수") # 85
+v
+v = scores.get("길동") # None
+v
+v = scores["길동"] # 에러발생
+v
+
+if "길동" in scores:
+    print(scores["길동"])
+
+scores.clear() # 모두삭제 
+print(scores)   
+
+persons = [('김기수',30),('홍대길',35),('강찬수',25)]
+mydict = dict(persons)
+
+mydict.update({'홍대길':33,'강찬수':26})
+
+
+## set : 중복 없는 요소
+myset = {1,1,3,3,5}
+print(myset)
+
+mylist = ["A","A","B","B","B"]
+s = set(mylist)
+print(s)
+
+myset = {1,3,5}
+myset.add(7) # 하나만 추가
+print(myset) 
+myset.update({4,2,10}) #여러개 추가
+print(myset)
+myset.remove(1) # 하나만 삭제
+print(myset)
+myset.clear() # 모두 삭제
+print(myset)
+
+a = {1,3,5}
+b = {1,2,5}
+i = a & b # 교집합
+# i = a.intersection(b)
+print(i)
+u = a | b # 합집합
+# u = a.union(b)
+print(u)
+d = a - b # 차집합
+# d = a.difference(b)
+print(d)
+
+
+## function
+
 
