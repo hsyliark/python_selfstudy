@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a55b27b-7fb0-4868-8271-721a83af10b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic programming/코딩도장 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic programming/코딩도장 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic programming/코딩도장 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic programming/코딩도장 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic programming/코딩도장 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic programming/코딩도장 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic programming/코딩도장 7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic programming/코딩도장 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic programming/코딩도장 3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basic programming/basic_programming.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 1.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -36,11 +35,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 3.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" selection-start-line="8" selection-end-line="16" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="18" column="18" lean-forward="true" selection-start-line="6" selection-end-line="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 7.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -63,6 +98,10 @@
         <option value="$PROJECT_DIR$/Basic programming/코딩도장 1.py" />
         <option value="$PROJECT_DIR$/Basic programming/코딩도장 2.py" />
         <option value="$PROJECT_DIR$/Basic programming/코딩도장 3.py" />
+        <option value="$PROJECT_DIR$/Basic programming/코딩도장 4.py" />
+        <option value="$PROJECT_DIR$/Basic programming/코딩도장 5.py" />
+        <option value="$PROJECT_DIR$/Basic programming/코딩도장 6.py" />
+        <option value="$PROJECT_DIR$/Basic programming/코딩도장 7.py" />
       </list>
     </option>
   </component>
@@ -166,8 +205,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 3.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="6" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 7.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
