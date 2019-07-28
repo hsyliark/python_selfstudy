@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a55b27b-7fb0-4868-8271-721a83af10b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic programming/코딩도장 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic programming/코딩도장 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic programming/코딩도장 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic programming/코딩도장 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic programming/코딩도장 2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +27,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="2" selection-start-column="2" selection-end-column="2" />
@@ -53,16 +62,7 @@
       <list>
         <option value="$PROJECT_DIR$/Basic programming/코딩도장 1.py" />
         <option value="$PROJECT_DIR$/Basic programming/코딩도장 2.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/python_selfstudy.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/Basic programming/코딩도장 3.py" />
       </list>
     </option>
   </component>
@@ -94,6 +94,9 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,6 +158,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="2" selection-start-column="2" selection-end-column="2" />
