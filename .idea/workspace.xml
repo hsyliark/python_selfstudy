@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a55b27b-7fb0-4868-8271-721a83af10b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic programming/코딩도장 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic programming/코딩도장 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic programming/코딩도장 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic programming/코딩도장 7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic programming/코딩도장 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic programming/코딩도장 3.py" afterDir="false" />
-    </list>
+    <list default="true" id="5a55b27b-7fb0-4868-8271-721a83af10b1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -30,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -39,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="550">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -57,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="18" column="18" lean-forward="true" selection-start-line="6" selection-end-line="18" selection-end-column="18" />
+              <caret line="18" column="18" selection-start-line="6" selection-end-line="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -66,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 6.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -105,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="4" />
     <option name="width" value="1152" />
     <option name="height" value="1040" />
@@ -164,7 +157,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962631" />
@@ -192,21 +184,21 @@
     <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -220,14 +212,14 @@
     <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="6" selection-end-line="18" selection-end-column="18" />
+          <caret line="18" column="18" selection-start-line="6" selection-end-line="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
         </state>
       </provider>
     </entry>
