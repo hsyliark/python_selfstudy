@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04fbdf1e-6b0c-4fa8-b3d5-5778adcd23a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/코딩도장 10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/코딩도장 8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/코딩도장 9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/코딩도장 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩도장 7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/코딩도장 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/코딩도장 10.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/코딩도장 10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            <state relative-caret-position="432">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -47,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="4" />
     <option name="width" value="1152" />
     <option name="height" value="1040" />
@@ -149,8 +145,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/코딩도장 10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        <state relative-caret-position="432">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
