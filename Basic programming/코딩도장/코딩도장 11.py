@@ -12,6 +12,14 @@ def fib(index):
     if index >= 2:
         return fib(index-2) + fib(index-1)
 seq = []
+index = 0
 while True:
+    s = fib(index)
+    if s > n:
+        break
+    seq.append(s)
+    index += 1
+print(seq)
+
 
 
