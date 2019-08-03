@@ -2,3 +2,17 @@
 # 예를 들어 73은 64(2**6)+8(2**3)+1(2**0)이기 때문에 1001001으로 표현한다.
 # 어떤 숫자를 입력받았을 때 그 숫자를 2진법으로 출력하는 프로그램을 작성하시오.
 
+n = int(input())
+res = []
+while True:
+    res.append(divmod(n,2)[1])
+    n = divmod(n,2)[0]
+    if divmod(n,2)[0] == 1:
+        res.append(divmod(n,2)[1])
+        res.append(divmod(n,2)[0])
+        break
+''.join([str(x) for x in list(reversed(res))])
+
+
+
+
