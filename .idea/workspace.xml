@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a55b27b-7fb0-4868-8271-721a83af10b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic programming/코딩도장 14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic programming/코딩도장/코딩도장 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic programming/코딩도장/코딩도장 13.py" afterDir="false" />
-    </list>
+    <list default="true" id="5a55b27b-7fb0-4868-8271-721a83af10b1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 14.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -78,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="4" />
     <option name="width" value="1152" />
     <option name="height" value="1040" />
@@ -143,7 +140,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24887893" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -202,7 +198,7 @@
     <entry file="file://$PROJECT_DIR$/Basic programming/코딩도장 14.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
