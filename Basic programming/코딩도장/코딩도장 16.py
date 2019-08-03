@@ -3,8 +3,9 @@
 # sin(x) = ∑{(-1)^n × x^(2n+1)} / (2n+1)!
 # cos(x) = ∑{(-1)^n × x^(2n)} / (2n)!
 
-x, n = 
-
+import math # 180도에 해당하는 radian 값은 math.pi
+x = float(input('radian 값을 입력하세요> '))
+n = int(input('integer 값을 입력하세요> '))
 def factorial(m):
     if m == 0:
         return 1
@@ -18,15 +19,18 @@ def mac_sin(x, n):
     for i in range(0, n+1):
         a = ((-1)**i * x**(2*i+1)) / factorial(2*i+1)
         sum += a
-    return sum
+    return round(sum, 3)
 def mac_cos(x, n):
     sum = 0
     for i in range(0, n+1):
         a = ((-1)**i * x**(2*i)) / factorial(2*i)
         sum += a
-    return sum
+    return round(sum, 3)
 def mac_tan(x, n):
-    return mac_sin(x, n) / mac_cos(x, n)
+    return round(mac_sin(x, n) / mac_cos(x, n), 3)
+res_dict = dict(zip(['x', 'n', 'sin', 'cos', 'tan'],
+                    [x, n, mac_sin(x, n), mac_cos(x, n), mac_tan(x, n)]))
+print(res_dict)
 
 
 
