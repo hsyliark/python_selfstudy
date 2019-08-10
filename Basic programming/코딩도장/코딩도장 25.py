@@ -32,4 +32,8 @@
 
 def happy(num):
 
+    for i in range(len(list(str(num)))):
+        sum = 0
+        sum += int(list(str(num))[i])
+
 
