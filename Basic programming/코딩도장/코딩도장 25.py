@@ -30,10 +30,20 @@
 # 작성한 프로그램은 각각의 테스트케이스에 대해서 올바른 결과를 출력하여야 한다.
 # 입력 후 결과 출력까지 걸리는 시간이 빠르면 빠를수록 좋다.
 
-def happy(num):
-
-    for i in range(len(list(str(num)))):
+p = int(input('숫자 리스트의 길이를 입력하세요> '))
+num_list = list(map(int,input('p개의 양의 정수를 입력하세요> ').split()))
+def happy(n):
+    num = n
+    while True:
         sum = 0
-        sum += int(list(str(num))[i])
-
-
+        for i in range(len(list(str(num)))):
+            sum += int(list(str(num))[i])**2
+        num = sum
+        if num == 1:
+            return str(n) + ' is a Happy number.'
+            break
+        if num == 4:
+            return str(n) + ' is an Unhappy number.'
+            break
+for i in range(len(num_list)):
+    print('Case #' + str(i+1) + ': ' + happy(num_list[i]))
