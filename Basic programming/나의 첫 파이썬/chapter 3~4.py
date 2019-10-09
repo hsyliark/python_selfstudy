@@ -32,3 +32,22 @@ motorcycles = ['honda', 'yamaha', 'suzuki']
 first_owned = motorcycles.pop(0)
 print("The first motorcycle I owned was a " + first_owned.title() + ".")
 
+motorcycles = ['honda', 'yamaha', 'suzuki', 'ducati']
+motorcycles.remove('ducati')
+print(motorcycles)
+
+cars = ['bmw', 'audi', 'toyota', 'subaru']
+cars.sort()
+print(cars)
+
+cars = ['bmw', 'audi', 'toyota', 'subaru']
+cars.sort(reverse=True)
+print(cars)
+
+cars = ['bmw', 'audi', 'toyota', 'subaru']
+print(sorted(cars))
+
+cars = ['bmw', 'audi', 'toyota', 'subaru']
+cars.reverse()
+print(cars)
+len(cars)
